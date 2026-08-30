@@ -1,0 +1,226 @@
+font_size: 78%
+name: Mizuki Hikaru
+profession: Software Engineer
+location: Sydney, Australia
+email: mizuki@hikaru.org
+linkedin: mizukihikaru
+summary:
+  Professional Software Engineer with 12+ years of experience designing and
+  building scalable web applications across cybersecurity, supply chain
+  logistics, real estate, infrastructure, and security. Experienced in
+  full-stack development, software architecture, and leading cross-functional
+  teams to deliver secure, maintainable, and high-performance systems.
+  Proficient in Python, JavaScript/TypeScript, Elixir, PHP, and C++. Uses
+  AI-assisted development workflows to improve engineering productivity.
+skills:
+  core-competencies:
+    - Full-Stack Development
+    - Software Design & Architecture
+    - Object-Oriented Programming
+    - Clean Code & Maintainability
+    - Agile Development
+    - Microservices
+    - Framework Design & Prototyping
+    - Code Quality
+    - UI/UX Design
+    - Testing & Debugging
+    - Unit Testing
+    - Test-Driven Development
+    - API Design & Integration
+    - CI/CD & Infrastructure Automation
+    - Project Management
+    - Information Security
+    - Performance Optimization
+  languages:
+    - Python
+    - JavaScript
+    - TypeScript
+    - PHP
+    - Elixir
+    - C++
+    - HTML
+    - CSS
+  frameworks:
+    - Django
+    - Django REST Framework
+    - Flask
+    - FastAPI
+    - React.js
+    - jQuery
+  databases:
+    - PostgreSQL
+    - Redis
+  cloud:
+    - CI/CD
+    - AWS
+    - GCP
+    - Git
+    - GitLab
+    - GitHub
+    - Docker
+    - Kubernetes
+    - Nginx
+  other:
+    - Raspberry Pi
+    - Selenium
+    - SMTP
+    - DKIM
+    - SEO
+    - Oban
+    - Blockchain
+    - Ecto
+    - Progressive Web Apps
+experience:
+  - company: TikTok - US Data Security
+    title: Security Engineering Support Engineer
+    start: November 2024
+    location: Sydney, Australia
+    highlights:
+      - Triaged and resolved on-call incidents across five production platforms.
+      - Deployed cloud services in complex production environments to develop
+        end-to-end platform knowledge and improve operational metrics.
+  - company: Tesserent - Cyber Solutions by Thales
+    title: Senior Software Engineer
+    start: April 2023
+    end: April 2024
+    location: Melbourne, Australia
+    highlights:
+      - Designed and implemented a scalable Python service to automate Android
+        Virtual Device (AVD) provisioning.
+      - Reduced provisioning time from six minutes to two minutes.
+      - Developed backend services with Django and enhanced the React frontend,
+        improving platform usability and maintainability.
+      - Delivered new features and resolved defects while maintaining platform
+        stability and code quality.
+  - company: Distru (Supply Chain & Logistics)
+    title: Senior Software Engineer
+    start: January 2022
+    end: June 2022
+    location: Remote
+    highlights:
+      - Designed and delivered large-scale backend and frontend features using
+        Elixir, TypeScript, and React.
+      - Optimized a rate-limited API layer, significantly improving CPU and memory
+        efficiency.
+      - Refactored core Elixir services to improve maintainability and
+        scalability.
+      - Developed background job workflows using Oban to improve processing
+        efficiency.
+  - company: Luxury Escapes
+    title: Senior Software Engineer
+    start: November 2020
+    end: December 2021
+    location: Sydney, Australia
+    highlights:
+      - Developed and maintained the Search API, improving geolocation search for
+        property listings using JavaScript, React, Redis, and PostgreSQL.
+      - Implemented new features, resolved defects, and improved SEO, contributing
+        to increased organic search traffic.
+  - company: Zero Associates
+    title: Senior Software Engineer
+    start: January 2019
+    end: July 2020
+    location: Melbourne, Australia
+    highlights:
+      - Built a proof-of-concept system for purchasing Amazon products with Bitcoin
+        using Python, Selenium, and Bitcoin Core.
+      - Designed and deployed a standalone mail server on Raspberry Pi with SMTP
+        and DKIM for secure email delivery.
+  - company: Loki Network
+    title: Senior Software Engineer / Team Lead
+    start: February 2018
+    end: August 2018
+    location: Melbourne, Australia
+    highlights:
+      - Contributed to the project's Monero fork by implementing C++ features that
+        enabled incentivized mix network functionality.
+      - Promoted to Team Lead, managing engineers developing core blockchain
+        infrastructure.
+      - Interviewed and hired engineers to support team growth.
+      - Coordinated communication between engineering and management to track
+        project progress and resolve delivery risks.
+  - company: B2BPay
+    title: Senior Software Engineer
+    start: May 2017
+    end: July 2017
+    location: Berlin, Germany
+    highlights:
+      - Developed backend services and APIs in JavaScript to support payment
+        processing.
+  - company: Professional Career Break
+    title: Traveller
+    start: June 2015
+    end: May 2017
+    location: A few different countries
+    highlights:
+      - Took a two-year career break to travel internationally and develop
+        cross-cultural communication and adaptability.
+  - company: Facebook
+    title: Software Engineer
+    start: August 2014
+    end: June 2015
+    location: Menlo Park, CA, USA
+    highlights:
+      - Developed internal tools supporting data center capacity planning and
+        network resource allocation.
+      - Built frontend applications in JavaScript and backend services in PHP and
+        Python for infrastructure planning teams.
+  - company: Eudaemonia Research
+    title: Software Engineer
+    start: March 2014
+    end: July 2014
+    location: Sydney, Australia
+    highlights:
+      - Researched and developed early decentralized exchange (DEX) technology
+        before mainstream adoption.
+  - company: Atlassian
+    title: Security Software Engineer
+    start: January 2014
+    end: March 2014
+    location: Sydney, Australia
+    highlights:
+      - Developed internal security auditing tools in Python.
+      - Identified software vulnerabilities through large-scale source code
+        analysis.
+  - company: Climate Change Research Centre, UNSW
+    title: Software Engineer
+    start: January 2013
+    end: September 2013
+    location: Sydney, Australia
+    highlights:
+      - Developed an interactive web application using Python and JavaScript to
+        visualize ocean plastic pollution.
+      - Integrated climate models to predict plastic debris movement and improve
+        public understanding of environmental impact.
+  - company: Azimuth Security
+    title: Intern Software Engineer
+    start: February 2012
+    end: April 2012
+    location: Lane Cove, NSW, Australia
+    highlights:
+      - Developed a software security tool in C++ as part of an engineering
+        internship.
+  - company: Securus Global
+    title: Penetration Tester
+    start: October 2011
+    end: January 2012
+    location: Sydney, Australia
+    highlights:
+      - Conducted penetration testing engagements to identify security
+        vulnerabilities in client applications.
+      - Produced technical reports detailing findings, risk assessments, and
+        remediation recommendations.
+  - company: Google
+    title: Intern Software Engineer
+    start: January 2010
+    end: March 2010
+    location: Sydney, Australia
+    highlights:
+      - Developed C++ backend and JavaScript frontend features for Google Maps,
+        enabling businesses to add logos to their listings.
+education:
+  - institution: University of New South Wales
+    qualification: Bachelor of Science (BS) in Computer Science
+    start: February 2009
+    end: March 2014
+    location: Sydney, Australia
